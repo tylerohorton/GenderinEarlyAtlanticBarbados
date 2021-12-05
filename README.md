@@ -2,7 +2,9 @@
 
 <param ve-config 
        title="Gender and Sexuality in Early Atlantic Barbados"
-       author="Tyler Horton"
+       author="Tyler Horton
+       HIST 1353
+       Dr. Genkins"
        banner="https://cdn.britannica.com/92/183592-050-543FD867/World-Data-Locator-Map-Barbados.jpg" 
        layout="vertical">
 
