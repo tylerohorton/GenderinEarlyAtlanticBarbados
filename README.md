@@ -3,7 +3,7 @@
 <param ve-config 
        title="Gender in Early Atlantic Barbados"
        author="Tyler Horton"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/1280px-Flag_of_Barbados.svg.png" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
