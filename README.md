@@ -3,7 +3,7 @@
 <param ve-config 
        title="Gender in Early Atlantic Barbados"
        author="Tyler Horton"
-       banner="https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg" 
+       banner="https://cdn.britannica.com/92/183592-050-543FD867/World-Data-Locator-Map-Barbados.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
