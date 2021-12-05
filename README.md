@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org/tylerohorton/GenderinEarlyAtlanticBarbados"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Gender in Early Atlantic Barbados"
+       title="Gender and Sexuality in Early Atlantic Barbados"
        author="Tyler Horton"
        banner="https://cdn.britannica.com/92/183592-050-543FD867/World-Data-Locator-Map-Barbados.jpg" 
        layout="vertical">
@@ -14,14 +14,9 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Introduction
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-
-# Basic usage
-
+       Last month, 
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
