@@ -48,7 +48,7 @@ The amount of poor whites on Barbados resulted from the transition from white in
 <param ve-image 
        label="From St. John Vestry Minutes, August 1693. The paragraph indicated by the red arrow discusses Mary Seeley and her eligibility to "receieve the sum of 10 shillings per month, 'for as long as the Churchwarden thinks she shall deserve relief from this parish.'"[^4] 
        description="From the Barbados Museum and Historical Society." 
-       url="https://ibb.co/YQB7Md5">
+       url="https://i.imgur.com/9R2Zlrt.jpeg">
 
 
 
