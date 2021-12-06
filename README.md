@@ -25,7 +25,25 @@ Last month, international superstar Rihanna was crowned a National Hero of Barba
        license="PA" 
        url="https://i.guim.co.uk/img/media/a5e58d67902b8d0899a825bdbf7f6bee32397379/0_0_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=1e9fcfd62d42667b02890446f64096af">
        
-Barbados's history is filled with individuals who provide insight into the dynamics of gender and sexuality on Barbados, whether it is Rihanna in the 21st century or persons who lived centuries ago. In this digital project, pertinent examples will be presented to understand the diverse experiences and instances regarding gender and sexuality in early Alantic Barbados, specifically the era when England was in control of the Caribbean island. Previously settled by Portugal, England began its colonial rule in Barbados in 1627 with the landing of the _William and John_ and within decades developed Barbados into a sugarcane- and slave-dominant society.[^3]    
+Barbados's history is filled with individuals who provide insight into the dynamics of gender and sexuality on Barbados, whether it is Rihanna in the 21st century or persons who lived centuries ago. In this digital project, pertinent examples will be presented to understand the diverse experiences and instances regarding gender and sexuality in early Alantic Barbados, specifically the era when England was in control of the Caribbean island. 
+
+# Gender and Sexuality in Enslavement
+
+Previously settled by Portugal, Barbados entered a new period of colonial rule in 1627 with the landing of the _William and John_, and within decades England developed Barbados into a sugarcane- and slave-dominant society.[^3]
+
+
+
+
+
+# Gender and Sexuality in Freedom
+
+
+
+    
+# Gender and Sexuality in Whiteness
+
+The previous two sections have only included examples of Black women, due to the dichotomy between enslavement and freedom that existed as a reality for Black women, but not for White women. However, similar to this dichotomy between enslaved and free women of color on Barbados, a separation between poor and elite White women existed. White women were never enslaved on Barbados, but their gender presented a difference between their White male counterparts. As Jones aptly argues "that the privileges of whiteness simultaneously constrained white women while allowing them the means to counter their gender subordiantion," this unique position of having a subaltern gender in a patriarchial society while also having a privileged skin color in a racist society necessitates study into what the role of gender and sexuality was like for White Barbadian women, both poor and elite.[^4]     
+
 
 
     
@@ -63,3 +81,4 @@ These example may seem diverse and in part tell a haphazrd tale of what the gend
 [^1]: [The Guardian: "Barbados’s icon: why Rihanna’s national hero status is so apt"](https://www.theguardian.com/music/2021/nov/30/barbadoss-icon-why-rihannas-national-hero-status-is-so-apt)
 [^2]: [In PLenty](IN PLENT BASCOMB)
 [^3]: [Beckles](Beckles Book)
+[^4]: [Ceciling Jones](Celicy JOnes Whiteness)
