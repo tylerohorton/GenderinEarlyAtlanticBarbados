@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="Gender and Sexuality in Early Atlantic Barbados"
-       author="Tyler Horton
-       HIST 1353
+       author="Tyler Horton - 
+       HIST 1353 -
        Dr. Genkins"
        banner="https://cdn.britannica.com/92/183592-050-543FD867/World-Data-Locator-Map-Barbados.jpg" 
        layout="vertical">
@@ -56,4 +56,5 @@ These example may seem diverse and in part tell a haphazrd tale of what the gend
 # References
 
 [^1]: [The Guardian: "Barbados’s icon: why Rihanna’s national hero status is so apt"](https://www.theguardian.com/music/2021/nov/30/barbadoss-icon-why-rihannas-national-hero-status-is-so-apt)
+[^2]: [In PLenty](IN PLENT BASCOMB)
 [^2]: [In PLenty](IN PLENT BASCOMB)
