@@ -8,14 +8,6 @@
        banner="https://cdn.britannica.com/92/183592-050-543FD867/World-Data-Locator-Map-Barbados.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-
 # Introduction
 
 Last month, international superstar Rihanna was crowned a National Hero of Barbados. Her Barbadian-infused tracks—from the inclusion of the “patois of her home region” and the display of common Barbadian musical elements like “reggae backings” and “dancehall beats”—have taken the world and music charts by storm.[^1] However, her songs also shine bright like a diamond for other reasons. For example, “Rude Boy” is “one of her most audibly Bajan” tracks in which she “leaned into her sexuality” on.[^1] Another instance is her song “What’s My Name,” in which Rihanna refutes “the ‘repressive respectability of a conservative gender ideology” by disidentifying with dominant definitions of a ‘lady.'"[^2] Because of this unabashed display of gender and sexuality within her songs in the face of her country's culture that is known for its "reputation for social conservatism," Rihanna is an interesting view into a modern day example of the relationship between Barbados, gender, and sexuality.[^2]
@@ -29,15 +21,17 @@ Barbados's history is filled with individuals who provide insight into the dynam
 
 # Gender and Sexuality in Enslavement
 
-Previously settled by Portugal, Barbados entered a new period of colonial rule in 1627 with the landing of the _William and John_, and within decades England developed Barbados into a sugarcane- and slave-dominant society.[^3]
+Previously settled by Portugal, Barbados entered a new period of colonial rule in 1627 with the landing of the _William and John_.[^3] In the early years of its British rule, Barbados had mostly British indentured servants who performed a variety of tasks on the island, but within a generation England developed Barbados into a sugarcane- and slave-dominant society marked by plantations.[^6] With the severe importance of sugarcane to Barbados' economy and the need for populations of African slaves to work the growing plantation found across the island, these phenomenon had important ramifications for gender and sexuality for enslaved Africans on Barbados. Jones notes that "planters wielded absolute power on their plantations, and this included the rights to the sexuality of the enslaved."[^4] Slave holders took advantage of this power, which was emboldened by Barbadian law. The court proceeding that formed this legal precedent of matrilenial status inheritance is provided to the right. In Barbados, "white males were therefore free to engage in sexual relationships with enslaved women with impunity" because "any child born to an enslaved woman, regardless of its father's race, social standing or legal status, became the propety of its mother's owner, thus augmenting the enslaved community."[^4] In this context that involved white slave holders taking advantage of their female slaves' sexualities to essentially perpetuate their labor source, female slaves were indelibly affected by this gendered and sexualized phenomenon, both on and off the plantation. 
 
-
-
-
+Interestingly, "the frequency with which black women traversed urban spaces suggests how they were perceived as sexual agents, lascivious, and 'unwomanly'" due to their status as "objects of commerce for different types of (sexual) labor."[^7] This would actually allow a male slave to dress up as a female slave on the orders of his master, traverse the urban streets of Bridgetown, Barbados, and succesfuly enter of the home of his master's enemy in an attempt to kill him. Dudley Crofts, a slave owner, was having an affair with a woman named Agatha Moore, and ordered a male slave of his to go kill Agatha's husband.[^7] An excerpt from the trial against the enslaved boy and Crofts is included to the right. Despite being unsuccessful (the enslaved boy was caught before he could kill Moore's husband), this case highlights the role of gender and sexuality for enslaved women—and those dressed like them—in public Barbados.
 
 # Gender and Sexuality in Freedom
 
-
+Not all Afrcan women on Barbados were enslaved, but like enslaved women, free women of color also dealt with a gendered and sexualized experience within Barbadian society. [Insert how people became free/were born free.] 
+[Insert sentences on typical lives of free people =specifically women= were like in Barbados]  
+[Insert image from slavery images of The Barbadoes Mulatto Gir]
+However, the stories of all free women were not alike.
+[Insert story of Rachel Pringle, free woman of color who owned tavern/hotel/brothel, and her image from slavery images]
 
     
 # Gender and Sexuality in Whiteness
@@ -60,39 +54,20 @@ Elite white women also existed within the context of white society on Barbados. 
 
 
     
-## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # Conclusion
 
-These example may seem diverse and in part tell a haphazrd tale of what the gender and sexuality was like for women in colonial British Barbados. That is indeed the goal of this project to display these diverse stories and to show that no one dichotomy could be established for gender and sexuality on the Caribbean island.  
+These diverse examples of stories and sources may seem scattered and in part tell a haphazrd tale of what gender and sexuality was like for women in colonial British Barbados. That is indeed the goal of this project. Because there were so many categories for women on Barbados (black, white, free, enslaved, elite, poor, etc.), a broad display is assembled to argue that no one dichotomy could be established for gender and sexuality on the Caribbean island.  
 
 # References
 
 [^1]: [The Guardian: "Barbados’s icon: why Rihanna’s national hero status is so apt"](https://www.theguardian.com/music/2021/nov/30/barbadoss-icon-why-rihannas-national-hero-status-is-so-apt)
 [^2]: [In PLenty](IN PLENT BASCOMB)
-[^3]: [Beckles](Beckles Book)
+[^3]: [Encyclopedia](Britannica.com Encyclopedia Barbados)
 [^4]: [Ceciling Jones](Celicy JOnes Whiteness)
-[^5]: [Beckles](White Women and Slavery in the Caribbean
+[^5]: [Beckles](White Women and Slavery in the Caribbean)
+[^6]: [Newman](A New World of Labor : The Development of Plantation Slavery in the British Atlantic)
+[^7]: [Fuentes](Reading the Spector)
