@@ -50,6 +50,13 @@ The amount of poor whites on Barbados resulted from the transition from white in
      description="From the Barbados Museum and Historical Society." 
      url="https://i.imgur.com/9R2Zlrt.jpeg">
 
+Elite white women also existed within the context of white society on Barbados. Contrasting the notion that the institution of slavery was solely patriarchial, in that men owned and administed slave holdings, Beckles illuminates how Barbadian women also owned slaves. Indeed, "white women were 50 percent of the owners of slaves in Bridgetown, the capital, on properties stocked with less than 10 slaves," and interestingly, "white women also owned more female slaves than males slaves."[^5] The fact that some elite white women were owners, important at that due to their noted urban and female slave holdings, of slaves is important to understand the role of gender and sexuality within white society on Barbados. Because Barbados enjoyed a larger white female population that other British Caribbean colonies, "there was a greater tendency for white women in Barbados to participate in the market economy as autonomous agents, and to establish accumulationist strategies based upon the ownership and possession of slaves," which included white female owners of slaves renting out their slaves for sexual services.[^5] Indeed, Beckles includes the example of Captain Cook, a British military officer, who testified in front of the 1791 Parliamentary Committee on the Slave System regarding these practices by white, female Barbadian slave owners. His testimony illuminates yet another instance of the diverse relationships between gender and sexuality that existed within Barbados society.
+<param ve-image 
+     label="Testimony from Captain Cook. _Abridgment of the minutes of the evidence, taken before a committee of the whole House, to whom it was referred to consider of the slave-trade, 1791_" 
+     description="Great Britain. Parliament. House of Commons." 
+     url="https://i.imgur.com/PLz607X.png">
+
+
 
 
     
@@ -88,3 +95,4 @@ These example may seem diverse and in part tell a haphazrd tale of what the gend
 [^2]: [In PLenty](IN PLENT BASCOMB)
 [^3]: [Beckles](Beckles Book)
 [^4]: [Ceciling Jones](Celicy JOnes Whiteness)
+[^5]: [Beckles](White Women and Slavery in the Caribbean
